@@ -115,4 +115,6 @@ This project demonstrates a complete end-to-end workflow for a Python-based cons
 
 It provides a clear, interpretable example of applied **Python programming, practical problem-solving, and secure user interaction implementation.**
 
-**Author:** Sumayya Samreen, M.Sc. in Artificial Intelligence — Focused on applied Python projects, secure software workflows, and building interactive, real-world user applications.
+## Author
+**Sumayya Samreen — M.Sc. in Artificial Intelligence**<br>
+Focused on developing practical AI solutions for real-world computer vision applications, particularly in identity verification and automated systems.
