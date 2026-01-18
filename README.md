@@ -117,4 +117,4 @@ It provides a clear, interpretable example of applied **Python programming, prac
 
 ## Author
 **Sumayya Samreen — M.Sc. in Artificial Intelligence**<br>
-Focused on developing practical AI solutions for real-world computer vision applications, particularly in identity verification and automated systems.
+Focused on developing practical Python-based e-commerce solutions with customer and admin modules, secure email OTP authentication, and interactive product recommendation features.
