@@ -1,6 +1,6 @@
 # Shopping Recommendation System
 
-The Shopping Recommendation System is a Python-based console application that allows users to browse and choose electronics products (TVs and Mobiles), see specifications, and get redirected to Amazon or Flipkart for purchase.
+This is a Python-based console application that allows users to browse and choose electronics products (TVs and Mobiles), see specifications, and get redirected to Amazon or Flipkart for purchase.
 
 It features:
 
@@ -113,6 +113,6 @@ This project demonstrates a complete end-to-end workflow for a Python-based cons
 * Redirecting users to web-based e-commerce platforms programmatically.
 * Applying practical software engineering principles like modular code, input validation, and error handling.
 
-It provides a clear, interpretable example of applied Python programming, practical problem-solving, and secure user interaction implementation.
+It provides a clear, interpretable example of applied **Python programming, practical problem-solving, and secure user interaction implementation.**
 
 **Author:** Sumayya Samreen, M.Sc. in Artificial Intelligence — Focused on applied Python projects, secure software workflows, and building interactive, real-world user applications.
